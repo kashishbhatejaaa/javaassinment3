@@ -30,13 +30,13 @@ h1 {
 #getWeatherBtn {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #007bff;
-    color: #fff;
+    background-color: #e7c313;
+    color: #100f0f;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 #getWeatherBtn:hover {
-    background-color: #0056b3;
+    background-color: #e7c313;
 }
